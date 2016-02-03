@@ -1,2 +1,2 @@
 # Programacion-Actuarial-III
-Primavera 2016
+Repositorio destinado a las actividades de la clase de Programación Actuarial III.
