@@ -1,3 +1,16 @@
+#Benemérita Universidad Autónoma de Puebla
+##Facultad de Ciencias Físico Matemáticas
+###Licenciatura en Actuaría
 # Programacion-Actuarial-III
-Repositorio destinado a las actividades de la clase de ProgramaciÃ³n Actuarial III.
-Ravelo
+
+Primavera 2016
+
+Días de la semana
+
+* Lunes
+* Martes
+* Miércoles
+* Jueves
+* Viernes
+* Sábado 
+* Domingo
