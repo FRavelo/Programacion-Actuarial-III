@@ -1,0 +1,29 @@
+#Benemérita Universidad Autónoma de Puebla
+##Facultad de Ciencias Físico Matemáticas
+###Licenciatura en Actuaría
+####Programación-Actuarial-III
+####Materias aprobadas
+
+* Introducción a la profesión actuarial - 9
+* DHPC - 9
+* Conceptos de cálculo - 9
+* Matemáticas Básicas - 8
+* Problemas de Matemáticas Básicas - 8
+* Programación Actuarial I - 7
+* Teoría del Interés I - 8
+* Formación Humana y Social - 9
+* Cálculo Diferencial - 8
+* Geometría Analítica - 10
+* Teoría de Ecuaciones - 9
+* Teoría del Interés II - 8
+* Microeconomía - 10
+* Programación Actuarial II - 7
+* Sistema Financiero Mexicano - 9
+* Macroeconomía - 8
+* DHTIC - 9
+* Cálculo Integral - 9
+* Álgebra Lineal - 8
+* Contabilidad General - 8
+* Demografía - 8
+* Introducción a las estructuras algebráicas - 9
+
